@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Money Conversion</string>
+    <string name="hint">Money to convert</string>
+    <string name="rad_USD_to_CAD">Convert U.S. to Canadian dollar</string>
+    <string name="rad_CAD_to_USD">Convert Canadian to U.S. dollar</string>
+    <string name="btn_convert">Convert Currency</string>
+
+
+
+
+</resources>
